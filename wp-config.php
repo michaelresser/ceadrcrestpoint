@@ -22,7 +22,7 @@
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define('REVISR_GIT_PATH', 'michaelresser/cedarcrestpoint'); // Added by Revisr
+define('REVISR_GIT_PATH', ''); // Added by Revisr
 define( 'DB_NAME', 'local' );
 
 /** MySQL database username */
