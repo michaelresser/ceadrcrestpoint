@@ -69,7 +69,7 @@ $table_prefix = 'wp_';
 define('WP_ALLOW_REPAIR', true);
 
 /* That's all, stop editing! Happy publishing. */
-
+define( 'REVISR_GIT_DIR', dirname('/Users/michaelesser/Local Sites/cedarcrestpoint/app/public'));
 
 
 /** Absolute path to the WordPress directory. */
